@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "G": {
+      "item": "minecraft:gold_ingot"
+    },
+    "B": {
+      "item": "napoleon_mod:blue_leather"
+    },
+    "R": {
+      "item": "napoleon_mod:red_leather"
+    },
+    "W": {
+      "item": "napoleon_mod:white_leather"
+    }
+  },
+  "pattern": [
+    "G G",
+    "BRW",
+    "BBR"
+  ],
+  "result": {
+    "item": "napoleon_mod:napoleon_chestplate"
+  },
+  "show_notification": true
+}

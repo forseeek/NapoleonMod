@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "addition": {
+    "item": "minecraft:netherite_ingot"
+  },
+  "base": {
+    "item": "napoleon_mod:napoleon_leggings"
+  },
+  "result": {
+    "item": "napoleon_mod:upgraded_napoleon_leggings"
+  }
+}

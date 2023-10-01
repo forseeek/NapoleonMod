@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "napoleon_mod:item/napoleon_sword"
+  }
+}

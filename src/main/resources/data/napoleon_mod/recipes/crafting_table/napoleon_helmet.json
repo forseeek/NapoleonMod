@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "G": {
+      "item": "minecraft:gold_ingot"
+    },
+    "B": {
+      "item": "napoleon_mod:black_leather"
+    }
+  },
+  "pattern": [
+    " G ",
+    "GBG",
+    "B B"
+  ],
+  "result": {
+    "item": "napoleon_mod:napoleon_helmet"
+  },
+  "show_notification": true
+}
